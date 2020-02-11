@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-02-11T13:56:38" hostname="umuzi" time="0.003">
+  <properties/>
+  <testcase name="product" classname="CalculatorTest" time="0.003"/>
+  <testcase name="addit" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[multiplication results: 12
+addition results: 3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
